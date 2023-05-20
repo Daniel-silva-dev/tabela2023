@@ -1,0 +1,22 @@
+export const times = [
+'Botafogo',
+'Palmeiras',
+'Fluminense',
+'Cruzeiro',
+'Athletico',
+'Atlético-MG',
+'Santos',
+'Fortaleza',
+'Flamengo',
+'São Paulo',
+'Grêmio',
+'Internacional',
+'Red Bull Bragantino',
+'Bahia',
+'Goiás',
+'Vasco',
+'Corinthians',
+'Cuiabá',
+'Coritiba',
+'América-MG'
+]
